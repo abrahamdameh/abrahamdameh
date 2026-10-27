@@ -17,7 +17,7 @@ WordPress and Android developer based in Nigeria. I build WordPress platforms fr
 - [NO ID](https://noid.help): anonymous messaging platform with a Flutter app on Google Play
 
 **Public code**
-- [member-documents](https://github.com/xhebruski/member-documents): WordPress plugin with versioned document templates, a tamper-evident PDF archive and recorded acceptance; 29 PHPUnit tests, CI on PHP 8.1–8.4
+- [member-documents](https://github.com/abrahamdameh/member-documents): WordPress plugin with versioned document templates, a tamper-evident PDF archive and recorded acceptance; 29 PHPUnit tests, CI on PHP 8.1–8.4
 
 Most of my product and client code is private.
 
